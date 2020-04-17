@@ -6,4 +6,8 @@
 ###### Cabecera H6
 
 
-Soy un readme.
+Soy un underline 1
+------------------
+
+Soy un underline 2
+==================
