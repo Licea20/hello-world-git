@@ -11,3 +11,11 @@ Soy un underline 1
 
 Soy un underline 2
 ==================
+
+- Letra *itálica* o _cursiva_
+
+- Formato __bold__ o **strong**
+
+- Formato ~~tachado~~
+
+- Formato ~~__*combinado*__~~
