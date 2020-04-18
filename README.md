@@ -31,3 +31,7 @@ Soy un underline 2
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
+
+# LINKS
+- <a href="www.google.com">Esto es un link con HTML a google</a>
+- [Esto es un link con Markdown a google](www.google.com)
