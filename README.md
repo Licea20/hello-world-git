@@ -35,3 +35,6 @@ Soy un underline 2
 # LINKS
 - <a href="www.google.com">Esto es un link con HTML a google</a>
 - [Esto es un link con Markdown a google](www.google.com)
+
+# IMÁGENES
+![Logo de Github](https://geekytheory.com/wp-content/uploads/2014/05/historia_octocat.jpg)
