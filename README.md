@@ -65,3 +65,15 @@ Esto es un texto referente a una cita que dejaremos abajo:
 > Esto es una cita
 Esto es otro texto que no se relaciona con la cita anterior.
 > Esto es otra cita.
+
+# LINEAS DIVISORAS HORIZONTALES
+Esto es un texto que será dividido por guiones medios
+
+---
+Esto es otro texto divido por asteriscos
+
+***
+
+Esto es otro texto dividido por guiones bajos
+
+___
