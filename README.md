@@ -53,3 +53,9 @@ public static void main(String args[]){
     System.out.println("Hola mundo");
 }
 ````
+
+# TABLAS
+| Nombre | Apellidos | Documento |
+| ------ | --------- | --------- |
+| Jose | Orozco Licea | CURP |
+| Isis | Ortiz de los S. | RFC
