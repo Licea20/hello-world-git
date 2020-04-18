@@ -38,3 +38,18 @@ Soy un underline 2
 
 # IMÁGENES
 ![Logo de Github](https://geekytheory.com/wp-content/uploads/2014/05/historia_octocat.jpg)
+
+# CODE SNIPETS
+````JSON
+[
+    {
+        "title": "Titulo de prueba",
+        "descripcion": "Descripcion de prueba"
+    }
+]
+````
+````Java
+public static void main(String args[]){
+    System.out.println("Hola mundo");
+}
+````
