@@ -58,4 +58,10 @@ public static void main(String args[]){
 | Nombre | Apellidos | Documento |
 | ------ | --------- | --------- |
 | Jose | Orozco Licea | CURP |
-| Isis | Ortiz de los S. | RFC
+| Isis | Ortiz de los S. | RFC |
+
+# CITAS
+Esto es un texto referente a una cita que dejaremos abajo:
+> Esto es una cita
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.
